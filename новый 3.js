@@ -8,7 +8,7 @@
       mm = String(today.getMonth() + 1).padStart(2, "0"),
       yyyy = today.getFullYear(),
       nextYear = yyyy + 1,
-      dayMonth = "05/15/",  //дата окончания
+      dayMonth = "04/13/",  //дата окончания
       date = dayMonth + yyyy;
 
   today = mm + "/" + dd + "/" + yyyy;
